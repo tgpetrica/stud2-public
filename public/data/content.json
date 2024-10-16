@@ -1,0 +1,21 @@
+{
+    "Subject A": {
+        "sub-Subject A1": [
+            { "title": "Title 1", "fileId": "/" },
+            { "title": "Title 2", "fileId": "/" }
+        ],
+        "sub-Subject A2": [
+            { "title": "Title 1", "fileId": "/" }
+        ],
+        "sub-Subject A3": [
+            { "title": "Title 1", "fileId": "/" }
+        ]
+    },
+    "Subject B": {
+        "Sub-Subject B1": [
+            { "title": "Title 1", "fileId": "/" },
+            { "title": "Title 2", "fileId": "/" }
+        ]
+    }
+ }
+ 
